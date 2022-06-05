@@ -1,10 +1,10 @@
 package com.sha.springbootmicroservice.model;
 
 import lombok.Data;
-import org.springframework.data.annotation.Id;
 
 import javax.persistence.*;
 import java.time.LocalDateTime;
+
 
 @Data
 @Entity
